@@ -1,0 +1,3 @@
+/Users/jhoselbadillocortes/Documents/dino_game/build/CMakeFiles/dino_game.dir
+/Users/jhoselbadillocortes/Documents/dino_game/build/CMakeFiles/edit_cache.dir
+/Users/jhoselbadillocortes/Documents/dino_game/build/CMakeFiles/rebuild_cache.dir
